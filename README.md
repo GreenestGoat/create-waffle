@@ -1,6 +1,6 @@
 # create-waffle
 
-Generate boilerplate HTML templates
+Generate boilerplate HTML templates built with [Parcel](https://parceljs.org/) under the hood.
 
 ### Installation
 
