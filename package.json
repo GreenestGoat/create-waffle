@@ -1,6 +1,6 @@
 {
   "name": "create-waffle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./bin/cli.min.js",
   "private": false,
   "scripts": {
