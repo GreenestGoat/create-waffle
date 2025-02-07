@@ -2,7 +2,7 @@
 
 Generate boilerplate HTML templates
 
-<img alt="Preview" src="preview.gif"/>
+<img alt="Preview" src="https://raw.githubusercontent.com/greenestgoat/create-waffle/refs/heads/main/preview.gif"/>
 
 ### Installation
 
