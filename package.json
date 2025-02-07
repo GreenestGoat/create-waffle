@@ -1,0 +1,31 @@
+{
+  "name": "create-waffle",
+  "version": "1.0.0",
+  "main": "./bin/cli.min.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-waffle": "./bin/cli.min.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.4.1",
+    "picocolors": "^1.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
